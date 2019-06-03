@@ -82,7 +82,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>April 20, 2019</td>
     <td>Introduction to Kubernetes</td>
     <td>Adit Biswas</td>
-    <td>-</td>
+    <td><a href="https://speakerdeck.com/aditbiswas1/introduction-to-kubernetes">Slides</a></td>
     <td><a href="https://github.com/aditbiswas1">GitHub</a></td>
     <td>-</td>
   </tr>
