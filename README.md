@@ -37,8 +37,8 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>June 1, 2019</td>
     <td>R in the Real World</td>
     <td>Abdul Majed RS</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="https://speakerdeck.com/amrrs/r-in-the-real-world">Slides</a></td>
+    <td><a href="https://github.com/amrrs">GitHub</a></td>
     <td>-</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Spatial Thinking and Location Intelligence</td>
     <td>Sangarshanan Veeraraghavan</td>
     <td>-</td>
-    <td>-</td>
+    <td><a href="https://github.com/Sangarshanan">GitHub</a></td>
     <td>-</td>
   </tr>
   <tr>
@@ -55,8 +55,8 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>April 20, 2019</td>
     <td>Introduction to Tweets Analysis</td>
     <td>Abdul Majed RS</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="https://github.com/amrrs/intro_to_tweets_analysis/blob/master/presentation.pdf">Slides</a></td>
+    <td><a href="https://github.com/amrrs">GitHub</a></td>
     <td>-</td>
   </tr>
   <tr>
@@ -64,8 +64,8 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>April 20, 2019</td>
     <td>Extracting tabular data from PDFs using Camelot and Excalibur</td>
     <td>Vinayak Mehta</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="https://speakerdeck.com/vinayakmehta/extracting-tabular-data-from-pdfs-using-camelot-and-excalibur">Slides</a></td>
+    <td><a href="https://twitter.com/vortex_ape">Twitter</a> / <a href="https://github.com/vinayak-mehta">GitHub</a></td>
     <td>-</td>
   </tr>
   <tr>
@@ -73,8 +73,8 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>April 20, 2019</td>
     <td>Rulette: A simple and versatile rule engine</td>
     <td>Kislay Verma</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="https://www.slideshare.net/KislayVerma1/rulette-a-pragmatic-business-rule-management-library">Slides</a></td>
+    <td><a href="https://github.com/kislayverma">GitHub</a></td>
     <td>-</td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Introduction to Kubernetes</td>
     <td>Adit Biswas</td>
     <td>-</td>
-    <td>-</td>
+    <td><a href="https://github.com/aditbiswas1">GitHub</a></td>
     <td>-</td>
   </tr>
 </table>
