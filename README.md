@@ -15,6 +15,42 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <th>YouTube URL</th>
   </tr>
   <tr>
+    <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/261607636/">1</a></td>
+    <td>June 1, 2019</td>
+    <td>Python: Tooling, Code Profiling and Security</td>
+    <td>Arun Singh</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/261607636/">1</a></td>
+    <td>June 1, 2019</td>
+    <td>Visualization for Data Scientists</td>
+    <td>Rishabh Makhija</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/261607636/">1</a></td>
+    <td>June 1, 2019</td>
+    <td>R in the Real World</td>
+    <td>Abdul Majed RS</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/261607636/">1</a></td>
+    <td>June 1, 2019</td>
+    <td>Spatial Thinking and Location Intelligence</td>
+    <td>Sangarshanan Veeraraghavan</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/260569166/">1</a></td>
     <td>April 20, 2019</td>
     <td>Introduction to Tweets Analysis</td>
