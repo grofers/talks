@@ -46,7 +46,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>June 1, 2019</td>
     <td>Spatial Thinking and Location Intelligence</td>
     <td>Sangarshanan Veeraraghavan</td>
-    <td>-</td>
+    <td><a href="https://speakerdeck.com/sangarshanan/spatial-thinking-grofers-tech-talks">Slides</a></td>
     <td><a href="https://github.com/Sangarshanan">GitHub</a></td>
     <td>-</td>
   </tr>
