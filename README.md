@@ -28,8 +28,8 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>June 1, 2019</td>
     <td>Visualization for Data Scientists</td>
     <td>Rishabh Makhija</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="https://speakerdeck.com/rishabh7m/visualisation-for-data-scientists">Slides</a></td>
+    <td><a href="https://github.com/rishabh7m">GitHub</a></td>
     <td>-</td>
   </tr>
   <tr>
