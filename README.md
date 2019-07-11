@@ -21,7 +21,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Arun Singh</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=qAf1Y8A3mio">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/261607636/">2</a></td>
@@ -39,7 +39,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Abdul Majed RS</td>
     <td><a href="https://speakerdeck.com/amrrs/r-in-the-real-world">Slides</a></td>
     <td><a href="https://github.com/amrrs">GitHub</a></td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=PWrPpgC4Y_k">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/261607636/">2</a></td>
@@ -48,7 +48,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Sangarshanan Veeraraghavan</td>
     <td><a href="https://speakerdeck.com/sangarshanan/spatial-thinking-grofers-tech-talks">Slides</a></td>
     <td><a href="https://github.com/Sangarshanan">GitHub</a></td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=-9C6haaYbRA">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/260569166/">1</a></td>
@@ -57,7 +57,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Abdul Majed RS</td>
     <td><a href="https://github.com/amrrs/intro_to_tweets_analysis/blob/master/presentation.pdf">Slides</a></td>
     <td><a href="https://github.com/amrrs">GitHub</a></td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=U6vyoCbgN-g">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/260569166/">1</a></td>
@@ -66,7 +66,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Vinayak Mehta</td>
     <td><a href="https://speakerdeck.com/vinayakmehta/extracting-tabular-data-from-pdfs-using-camelot-and-excalibur">Slides</a></td>
     <td><a href="https://twitter.com/vortex_ape">Twitter</a> / <a href="https://github.com/vinayak-mehta">GitHub</a></td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=NyCB5gCyd2c">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/260569166/">1</a></td>
@@ -75,7 +75,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Kislay Verma</td>
     <td><a href="https://www.slideshare.net/KislayVerma1/rulette-a-pragmatic-business-rule-management-library">Slides</a></td>
     <td><a href="https://github.com/kislayverma">GitHub</a></td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=o1ENIoKI5fA">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/Grofers-Tech-Talks-Bangalore/events/260569166/">1</a></td>
@@ -84,6 +84,6 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <td>Adit Biswas</td>
     <td><a href="https://speakerdeck.com/aditbiswas1/introduction-to-kubernetes">Slides</a></td>
     <td><a href="https://github.com/aditbiswas1">GitHub</a></td>
-    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=DVSb3xUYA-M">YouTube</a></td>
   </tr>
 </table>
