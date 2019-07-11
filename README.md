@@ -11,7 +11,7 @@ To propose a talk, please [open an issue](https://github.com/grofers/talks/issue
     <th>Talk</th>
     <th>Speaker</th>
     <th>Slides</th>
-    <th>Twitter/GitHub handle</th>
+    <th>Twitter/GitHub/Linkedin handle</th>
     <th>YouTube URL</th>
   </tr>
   <tr>
